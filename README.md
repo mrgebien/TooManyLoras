@@ -15,7 +15,7 @@ It works exactly like a normal Lora Loader node, except that it can Load up to 1
 Each Lora weight can be tweaked individually.
 You just need to plug-in your `model` checkpoint and `clip` as normal.
 
-![TooManyLoras Node]([https://i.ibb.co/3mq8WLBc/Too-Many-Loras.png](https://i.ibb.co/3mq8WLBc/Too-Many-Loras.png))
+![https://i.ibb.co/3mq8WLBc/Too-Many-Loras.png](https://i.ibb.co/3mq8WLBc/Too-Many-Loras.png))
 
 
 I made this node for myself but I thought It'd be nice to share with the community.
